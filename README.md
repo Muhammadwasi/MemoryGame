@@ -10,6 +10,6 @@ It contains three screens with background `Music`:<br/>
 1. Game Mode Screen:<br/>
   It has `Timer`, `Steps Counter`, and `High Score` keeper.<br/><br/>
   ![Main Screen](https://github.com/Muhammadwasi/MemoryGame/blob/master/Game%20Mode%201.PNG)
-  ![Main Screen](https://github.com/Muhammadwasi/MemoryGame/blob/master/Game%20Mode%202.PNG)
-##How to play?
-In order to play this game, you have to install Processing version 2. It will give errors in `Processing 3` because some music libraries have been removed in version 3. In order to run it on `Processing v3`, remove the minim library.
+  ![Main Screen](https://github.com/Muhammadwasi/MemoryGame/blob/master/Game%20Mode%202.PNG)<br/>
+## How to play?
+In order to play this game, you have to install Processing version 2. It will give errors in `Processing 3` because some music libraries have been removed in version 3. In order to run it on `Processing v3`, remove the `minim` library.
