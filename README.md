@@ -1,5 +1,5 @@
 # Memory Game
-This is simply a memory game in which a player has to match a pair of an object.<br/>
+This is a memory game written in `Java Processing 2.2.1`<br/>
 It contains three screens with background `Music`:<br/>
 1. Main Screen:<br/><br/>
   It has three dialogs `Play`, `Help`, and `High Score`.<br/><br/>
@@ -11,3 +11,5 @@ It contains three screens with background `Music`:<br/>
   It has `Timer`, `Steps Counter`, and `High Score` keeper.<br/><br/>
   ![Main Screen](https://github.com/Muhammadwasi/MemoryGame/blob/master/Game%20Mode%201.PNG)
   ![Main Screen](https://github.com/Muhammadwasi/MemoryGame/blob/master/Game%20Mode%202.PNG)
+##How to play?
+In order to play this game, you have to install Processing version 2. It will give errors in `Processing 3` because some music libraries have been removed in version 3. In order to run it on `Processing v3`, remove the minim library.
