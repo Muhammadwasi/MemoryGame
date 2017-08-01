@@ -1,6 +1,6 @@
 # Memory Game
 This is simply a memory game in which a player has to match a pair of an object.<br/>
-It contains three screens:<br/>
+It contains three screens with background `Music`:<br/>
 1. Main Screen:<br/><br/>
   It has three dialogs `Play`, `Help`, and `High Score`.<br/><br/>
   ![Main Screen](https://github.com/Muhammadwasi/MemoryGame/blob/master/Main%20Menu.PNG)
